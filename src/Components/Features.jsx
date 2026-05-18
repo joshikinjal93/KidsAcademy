@@ -99,7 +99,7 @@ function Features() {
 
             <Col lg={4} xs={12} className='text-center mb-4 mb-lg-0'>
               <img
-                src="./src/assets/images/feature.jpg"
+                src="/assets/images/feature.jpg"
                 alt="Feature Image"
                 className='img-fluid w-100'
               />
