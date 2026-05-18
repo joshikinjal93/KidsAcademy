@@ -9,8 +9,8 @@ const testimonials = [
     text: "Professionally predominate that timely infrastructures tops line methodologies. Collaboratively seize scalable channels before longterm high impact",
     name: "Joly Smith",
     role: "ui/ux Designer",
-    img: "./src/assets/images/testimonial_01.jpg",
-    icon: "./src/assets/images/testimonial_icon_01.jpg",
+    img: "/assets/images/testimonial_01.jpg",
+    icon: "/assets/images/testimonial_icon_01.jpg",
     color:"#ffc000"
   },
   {
@@ -18,8 +18,8 @@ const testimonials = [
     text: "Professionally predominate that timely infrastructures tops line methodologies. Collaboratively seize scalable channels before longterm high impact",
     name: "Joly Smith",
     role: "ui/ux Designer",
-    img: "./src/assets/images/testimonial_02.jpg",
-    icon: "./src/assets/images/testimonial_icon_02.jpg",
+    img: "/assets/images/testimonial_02.jpg",
+    icon: "/assets/images/testimonial_icon_02.jpg",
     color:"#e84b3a"
   },
   {
@@ -27,8 +27,8 @@ const testimonials = [
     text: "Professionally predominate that timely infrastructures tops line methodologies. Collaboratively seize scalable channels before longterm high impact",
     name: "Joly Smith",
     role: "ui/ux Designer",
-    img: "./src/assets/images/testimonial_03.jpg",
-    icon: "./src/assets/images/testimonial_icon_03.jpg",
+    img: "/assets/images/testimonial_03.jpg",
+    icon: "/assets/images/testimonial_icon_03.jpg",
     color:"#fc7f0c"
   },
   {
@@ -36,8 +36,8 @@ const testimonials = [
     text: "Professionally predominate that timely infrastructures tops line methodologies. Collaboratively seize scalable channels before longterm high impact",
     name: "Joly Smith",
     role: "ui/ux Designer",
-    img: "./src/assets/images/testimonial_01.jpg",
-    icon: "./src/assets/images/testimonial_icon_01.jpg",
+    img: "/assets/images/testimonial_01.jpg",
+    icon: "/assets/images/testimonial_icon_01.jpg",
     color:"#ffc000"
   },
   {
@@ -45,8 +45,8 @@ const testimonials = [
     text: "Professionally predominate that timely infrastructures tops line methodologies. Collaboratively seize scalable channels before longterm high impact",
     name: "Joly Smith",
     role: "ui/ux Designer",
-    img: "./src/assets/images/testimonial_02.jpg",
-    icon: "./src/assets/images/testimonial_icon_02.jpg",
+    img: "/assets/images/testimonial_02.jpg",
+    icon: "/assets/images/testimonial_icon_02.jpg",
     color:"#e84b3a"
   },
   {
@@ -54,8 +54,8 @@ const testimonials = [
     text: "Professionally predominate that timely infrastructures tops line methodologies. Collaboratively seize scalable channels before longterm high impact",
     name: "Joly Smith",
     role: "ui/ux Designer",
-    img: "./src/assets/images/testimonial_03.jpg",
-    icon: "./src/assets/images/testimonial_icon_03.jpg",
+    img: "/assets/images/testimonial_03.jpg",
+    icon: "/assets/images/testimonial_icon_03.jpg",
     color:"#fc7f0c"
   }
 ]

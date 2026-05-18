@@ -7,25 +7,25 @@ import { Link } from 'react-router-dom'
 
 const teacher_Details = [
   {
-    img:"./src/assets/images/teacher_01.jpg",
+    img:"/assets/images/teacher_01.jpg",
     name:"Broklyn Doel",
     role:"Sains Teacher",
     bgColor:"bg-purple",
   },
   {
-    img:"./src/assets/images/teacher_02.jpg",
+    img:"/assets/images/teacher_02.jpg",
     name:"Alex Jhonson",
     role:"Art Teacher",
     bgColor:"bg-red",
   },
   {
-    img:"./src/assets/images/teacher_03.jpg",
+    img:"/assets/images/teacher_03.jpg",
     name:"Robot Jhonson",
     role:"Math Teacher",
     bgColor:"bg-orange",
   },
   {
-    img:"./src/assets/images/teacher_04.jpg",
+    img:"/assets/images/teacher_04.jpg",
     name:"Janaton Doe",
     role:"English Teacher",
     bgColor:"bg-lightblue",

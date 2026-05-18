@@ -6,19 +6,19 @@ import { Link } from 'react-router-dom'
 
 const classData = [
     {
-        img:"/src/assets/images/class_01.jpg",
+        img:"/assets/images/class_01.jpg",
         title: "Imagination Classes",
         textColor:"text-yellow",
         bgColor:"bg-yellow"
     },
     {
-        img:"/src/assets/images/class_02.jpg",
+        img:"/assets/images/class_02.jpg",
         title: "Drawing Classes",
         textColor:"text-red",
         bgColor:"bg-red"
     },
     {
-        img:"/src/assets/images/class_03.jpg",
+        img:"/assets/images/class_03.jpg",
         title: "Learning Classes",
         textColor:"text-orange",
         bgColor:"bg-orange"

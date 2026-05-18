@@ -6,7 +6,7 @@ function HomeBanner() {
           <section id="Homebanner">
                <Carousel>
                     <Carousel.Item interval={1000}>
-                        <img src={'./src/assets/images/banner_01.jpg'} alt="banner" className="img-fluid" />
+                        <img src={'/assets/images/banner_01.jpg'} alt="banner" className="img-fluid" />
                         <Carousel.Caption>
                             <div className="banner-content">
                                 <h3>Welcome to KidsAcademy</h3>
@@ -21,7 +21,7 @@ function HomeBanner() {
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item interval={500}>
-                        <img src={'./src/assets/images/banner_02.jpg'} alt="banner" className="img-fluid" />
+                        <img src={'/assets/images/banner_02.jpg'} alt="banner" className="img-fluid" />
                         <Carousel.Caption>
                             <div className="banner-content">
                                 <h3>Welcome to KidsAcademy</h3>
@@ -36,7 +36,7 @@ function HomeBanner() {
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
-                        <img src={'./src/assets/images/banner_03.jpg'} alt="banner" className="img-fluid" />
+                        <img src={'/assets/images/banner_03.jpg'} alt="banner" className="img-fluid" />
                         <Carousel.Caption>
                             <div className="banner-content">
                                 <h3>Welcome to KidsAcademy</h3>

@@ -9,49 +9,49 @@ import Subscribe from '../Subscribe'
 
 const teacher_Details = [
   {
-    img:"./src/assets/images/teacher_01.jpg",
+    img:"/assets/images/teacher_01.jpg",
     name:"Broklyn Doel",
     role:"Sains Teacher",
     bgColor:"bg-yellow",
   },
   {
-    img:"./src/assets/images/teacher_02.jpg",
+    img:"/assets/images/teacher_02.jpg",
     name:"Alex Jhonson",
     role:"Art Teacher",
     bgColor:"bg-red",
   },
   {
-    img:"./src/assets/images/teacher_03.jpg",
+    img:"/assets/images/teacher_03.jpg",
     name:"Robot Jhonson",
     role:"Math Teacher",
     bgColor:"bg-orange",
   },
   {
-    img:"./src/assets/images/teacher_04.jpg",
+    img:"/assets/images/teacher_04.jpg",
     name:"Janaton Doe",
     role:"English Teacher",
     bgColor:"bg-purple",
   },
   {
-    img:"./src/assets/images/teacher_05.jpg",
+    img:"/assets/images/teacher_05.jpg",
     name:"Broklyn Doel",
     role:"Sains Teacher",
     bgColor:"bg-lightblue",
   },
   {
-    img:"./src/assets/images/teacher_06.jpg",
+    img:"/assets/images/teacher_06.jpg",
     name:"Alex Jhonson",
     role:"Art Teacher",
     bgColor:"bg-darkgreen",
   },
    {
-    img:"./src/assets/images/teacher_07.jpg",
+    img:"/assets/images/teacher_07.jpg",
     name:"Robot Jhonson",
     role:"Math Teacher",
     bgColor:"bg-pink",
   },
   {
-    img:"./src/assets/images/teacher_08.jpg",
+    img:"/assets/images/teacher_08.jpg",
     name:"Janaton Doe",
     role:"English Teacher",
     bgColor:"bg-darkred",

@@ -6,55 +6,55 @@ import { Link } from 'react-router-dom'
 
 const classData = [
     {
-        img:"/src/assets/images/class_01.jpg",
+        img:"/assets/images/class_01.jpg",
         title: "Imagination Classes",
         textColor:"text-yellow",
         bgColor:"bg-yellow"
     },
     {
-        img:"/src/assets/images/class_02.jpg",
+        img:"/assets/images/class_02.jpg",
         title: "Drawing Classes",
         textColor:"text-red",
         bgColor:"bg-red"
     },
     {
-        img:"/src/assets/images/class_03.jpg",
+        img:"/assets/images/class_03.jpg",
         title: "Learning Classes",
         textColor:"text-orange",
         bgColor:"bg-orange"
     },
     {
-        img:"/src/assets/images/class_04.jpg",
+        img:"/assets/images/class_04.jpg",
         title: "Imagination Classes",
         textColor:"text-purple",
         bgColor:"bg-purple"
     },
     {
-        img:"/src/assets/images/class_05.jpg",
+        img:"/assets/images/class_05.jpg",
         title: "Drawing Classes",
         textColor:"text-lightblue",
         bgColor:"bg-lightblue"
     },
     {
-        img:"/src/assets/images/class_06.jpg",
+        img:"/assets/images/class_06.jpg",
         title: "Learning Classes",
         textColor:"text-darkblue",
         bgColor:"bg-darkblue"
     },
     {
-        img:"/src/assets/images/class_07.jpg",
+        img:"/assets/images/class_07.jpg",
         title: "Imagination Classes",
         textColor:"text-pink",
         bgColor:"bg-pink"
     },
     {
-        img:"/src/assets/images/class_08.jpg",
+        img:"/assets/images/class_08.jpg",
         title: "Drawing Classes",
         textColor:"text-darkgreen",
         bgColor:"bg-darkgreen"
     },
     {
-        img:"/src/assets/images/class_09.jpg",
+        img:"/assets/images/class_09.jpg",
         title: "Learning Classes",
         textColor:"text-darkred",
         bgColor:"bg-darkred"

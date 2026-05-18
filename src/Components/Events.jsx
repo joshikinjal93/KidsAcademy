@@ -5,9 +5,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faClock } from "@fortawesome/free-regular-svg-icons";
 import { faHome } from "@fortawesome/free-solid-svg-icons";
 
-import event1 from "../assets/images/event_01.jpg";
-import event2 from "../assets/images/event_02.jpg";
-import event3 from "../assets/images/event_03.jpg";
+import event1 from "/assets/images/event_01.jpg";
+import event2 from "/assets/images/event_02.jpg";
+import event3 from "/assets/images/event_03.jpg";
 
 const events = [
   {

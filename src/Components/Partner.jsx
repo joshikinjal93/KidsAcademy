@@ -6,16 +6,16 @@ import { Autoplay } from 'swiper/modules';
 import 'swiper/css/autoplay';
 
 const partnerData = [
-  { id: 1, image: "./src/assets/images/partner_01.jpg" },
-  { id: 2, image: "./src/assets/images/partner_02.jpg" },
-  { id: 3, image: "./src/assets/images/partner_03.jpg" },
-  { id: 4, image: "./src/assets/images/partner_04.jpg" },
-  { id: 5, image: "./src/assets/images/partner_05.jpg" },
-  { id: 6, image: "./src/assets/images/partner_01.jpg" },
-  { id: 7, image: "./src/assets/images/partner_02.jpg" },
-  { id: 8, image: "./src/assets/images/partner_03.jpg" },
-  { id: 9, image: "./src/assets/images/partner_04.jpg" },
-  { id: 10, image: "./src/assets/images/partner_05.jpg" }
+  { id: 1, image: "/assets/images/partner_01.jpg" },
+  { id: 2, image: "/assets/images/partner_02.jpg" },
+  { id: 3, image: "/assets/images/partner_03.jpg" },
+  { id: 4, image: "/assets/images/partner_04.jpg" },
+  { id: 5, image: "/assets/images/partner_05.jpg" },
+  { id: 6, image: "/assets/images/partner_01.jpg" },
+  { id: 7, image: "/assets/images/partner_02.jpg" },
+  { id: 8, image: "/assets/images/partner_03.jpg" },
+  { id: 9, image: "/assets/images/partner_04.jpg" },
+  { id: 10, image: "/assets/images/partner_05.jpg" }
 ];
 
 function Partner( {removeBg}) {

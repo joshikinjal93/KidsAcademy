@@ -5,7 +5,7 @@
   }
   #Homebanner::before {
       content: '';
-      background: url(../../assets/images/section_triangle_top.png) repeat-x;
+      background: url(/assets/images/section_triangle_top.png) repeat-x;
       position: absolute;
       top: 0;
       left: 0;
@@ -15,7 +15,7 @@
   }
   #Homebanner::after {
       content: '';
-      background: url(../../assets/images/section_triangle_bottom.png) repeat-x;
+      background: url(/assets/images/section_triangle_bottom.png) repeat-x;
       position: absolute;
       bottom: -3px;
       left: 0;

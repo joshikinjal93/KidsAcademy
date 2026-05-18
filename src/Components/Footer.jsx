@@ -31,17 +31,17 @@ const footerIcons = [
 ]
 const latestnewsData = [
     {
-        img:"./src/assets/images/footer_post_01.jpg",
+        img:"/assets/images/footer_post_01.jpg",
         heading:"Corem psum dolor the amectetuer adipiscing...",
         text:"04 February 2021"
     },
     {
-        img:"./src/assets/images/footer_post_02.jpg",
+        img:"/assets/images/footer_post_02.jpg",
         heading:"Corem psum dolor the amectetuer adipiscing...",
         text:"28 January 2021"
     },
     {
-        img:"./src/assets/images/footer_post_03.jpg",
+        img:"/assets/images/footer_post_03.jpg",
         heading:"Duis autem iriure dolor in hendrerit esse...",
         text:"03 January 2021"
     }
@@ -68,31 +68,31 @@ const twiietwidgetData = [
 ]
 const galleryImage = [
     {
-        img: "./src/assets/images/gallery_01 (1).jpg"
+        img: "/assets/images/gallery_01 (1).jpg"
     },
     {
-        img: "./src/assets/images/gallery_02 (1).jpg"
+        img: "/assets/images/gallery_02 (1).jpg"
     },
     {
-        img: "./src/assets/images/gallery_03 (1).jpg"
+        img: "/assets/images/gallery_03 (1).jpg"
     },
     {
-        img: "./src/assets/images/gallery_04 (1).jpg"
+        img: "/assets/images/gallery_04 (1).jpg"
     },
     {
-        img: "./src/assets/images/gallery_05 (1).jpg"
+        img: "/assets/images/gallery_05 (1).jpg"
     },
     {
-        img: "./src/assets/images/gallery_06 (1).jpg"
+        img: "/assets/images/gallery_06 (1).jpg"
     },
     {
-        img: "./src/assets/images/gallery_07.jpg"
+        img: "/assets/images/gallery_07.jpg"
     },
     {
-        img: "./src/assets/images/gallery_08.jpg"
+        img: "/assets/images/gallery_08.jpg"
     },
     {
-        img: "./src/assets/images/gallery_09.jpg"
+        img: "/assets/images/gallery_09.jpg"
     }
 ]
 const socialmediaIcons = [
@@ -121,7 +121,7 @@ function Footer() {
                     <Row>
                         <Col lg={3} md={6} sm={12} className='mb-5'>
                             <div className='mb-4'>
-                                <img src="./src/assets/images/logo.png" alt="" className='img-fluid' />
+                                <img src="/assets/images/logo.png" alt="" className='img-fluid' />
                             </div>
                             <div className='footer-about mb-4'>
                                 <p className='text-gray'>Distily enable team driven services through extensive is a relatonships platforms with interactive content. Enthusiastically scale effective.</p>

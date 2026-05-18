@@ -9,42 +9,42 @@ import 'swiper/css/autoplay';
 
 const teacher_Details = [
   {
-    img:"./src/assets/images/teacher_05.jpg",
+    img:"/assets/images/teacher_05.jpg",
     name:"Alex Jhonson",
     role:"Sains Teacher"
   },
   {
-    img:"./src/assets/images/teacher_06.jpg",
+    img:"/assets/images/teacher_06.jpg",
     name:"Alex bare",
     role:"Art Teacher"
   },
   {
-    img:"./src/assets/images/teacher_07.jpg",
+    img:"/assets/images/teacher_07.jpg",
     name:"helas Jhonson",
     role:"English Teacher"
   },
   {
-    img:"./src/assets/images/teacher_08.jpg",
+    img:"/assets/images/teacher_08.jpg",
     name:"Paul Jhonson",
     role:"Math Teacher"
   },
   {
-    img:"./src/assets/images/teacher_05.jpg",
+    img:"/assets/images/teacher_05.jpg",
     name:"Alex Jhonson",
     role:"Sains Teacher"
   },
   {
-    img:"./src/assets/images/teacher_06.jpg",
+    img:"/assets/images/teacher_06.jpg",
     name:"Alex Jhonson",
     role:"Art Teacher"
   },
   {
-    img:"./src/assets/images/teacher_07.jpg",
+    img:"/assets/images/teacher_07.jpg",
     name:"Alex Jhonson",
     role:"English Teacher"
   },
   {
-    img:"./src/assets/images/teacher_08.jpg",
+    img:"/assets/images/teacher_08.jpg",
     name:"Alex Jhonson",
     role:"Math Teacher"
   },

@@ -11,7 +11,7 @@ function about({ removeBg}) {
                 <Row>
                     <Col lg={6}>
                         <div className="about-image">
-                            <img src="/src/assets/images/about.png" alt="" className="img-fluid" />
+                            <img src="/assets/images/about.png" alt="" className="img-fluid" />
                         </div>
                     </Col>
                     <Col lg={6}>

@@ -1,6 +1,6 @@
 #Teachers::before, #Banner::before, #Achivements::before, #Partner::before,  #Subscribe::before, #Contact .contact-map::before {
     content: '';
-    background: url(./assets/images/section_triangle_top.png) repeat-x;
+    background: url(/assets/images/section_triangle_top.png) repeat-x;
     position: absolute;
     top: 0;
     left: 0;
@@ -10,7 +10,7 @@
 }
 #Teachers::after, #Banner::after, #Achivements::after, #Partner::after {
     content: '';
-    background: url(./assets/images/section_triangle_bottom.png) repeat-x;
+    background: url(/assets/images/section_triangle_bottom.png) repeat-x;
     position: absolute;
     bottom: -3px;
     left: 0;
@@ -77,7 +77,7 @@ header .nav-link{
 #Banner{
   padding: 100px 0px;
   text-align: center;
-  background: linear-gradient(rgba(7, 143, 203, .8), rgba(7, 143, 203, .8)), url('./assets/images/about-bg.jpg') no-repeat scroll;
+  background: linear-gradient(rgba(7, 143, 203, .8), rgba(7, 143, 203, .8)), url('/assets/images/about-bg.jpg') no-repeat scroll;
   background-size: cover;
   position: relative;
   color: #fff;
@@ -139,7 +139,7 @@ header .nav-link{
 /* about style start */
 #about{
     position: relative;
-    background-image: url('./src/assets/images/about-bg.jpg');
+    background-image: url('/assets/images/about-bg.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -160,7 +160,7 @@ header .nav-link{
 
 #about:before {
     content: '';
-    background: url(./assets/images/section_triangle_top.png) repeat-x;
+    background: url(/assets/images/section_triangle_top.png) repeat-x;
     position: absolute;
     top: 0;
     left: 0;
@@ -172,7 +172,7 @@ header .nav-link{
 #about:after {
     content: "";
     position: absolute;
-    background: url(./assets/images/section_triangle_bottom.png) repeat-x;
+    background: url(/assets/images/section_triangle_bottom.png) repeat-x;
     bottom: 0;
     width: 100%;
     height: 7px;
@@ -229,7 +229,7 @@ header .nav-link{
 
 /* teacher style start */
 #Teachers{
-    background: linear-gradient(rgba(71, 171, 35, .8), rgba(71, 171, 35, .8)), url(./assets/images/teacher-bg.jpg);
+    background: linear-gradient(rgba(71, 171, 35, .8), rgba(71, 171, 35, .8)), url(/assets/images/teacher-bg.jpg);
     background-size: cover;
     padding: 110px 0px;
     position: relative;
@@ -248,7 +248,7 @@ header .nav-link{
 }
 
 #TeacherPage{
-    background: linear-gradient(rgba(71, 171, 35, .8), rgba(71, 171, 35, .8)), url(./assets/images/teacher-bg.jpg);
+    background: linear-gradient(rgba(71, 171, 35, .8), rgba(71, 171, 35, .8)), url(/assets/images/teacher-bg.jpg);
     background-size: cover;
     padding: 110px 0px;
     color: #fff;
@@ -275,7 +275,7 @@ header .nav-link{
 /* achivements style start */
 #Achivements{
   position: relative;
-  background: linear-gradient(rgba(146, 39, 143, .8), rgba(146, 39, 143, .8)), url(./assets/images/achievements-bg.jpg);
+  background: linear-gradient(rgba(146, 39, 143, .8), rgba(146, 39, 143, .8)), url(/assets/images/achievements-bg.jpg);
   background-size: cover;
   padding: 110px 0;
   color: #fff;
@@ -363,7 +363,7 @@ header .nav-link{
 /* partner style start */
   #Partner{
     position: relative;
-    background: linear-gradient(rgba(252, 127, 12, .8), rgba(252, 127, 12, .8)), url(./assets/images/partner-bg.jpg);
+    background: linear-gradient(rgba(252, 127, 12, .8), rgba(252, 127, 12, .8)), url(/assets/images/partner-bg.jpg);
     background-size: cover;
     padding: 110px 0;
   }
@@ -470,7 +470,7 @@ header .nav-link{
 footer .footer-top{
     padding-top: 100px;
     padding-bottom: 50px;
-    background-image: url(./src/assets/images/footer-bg.jpg);
+    background-image: url(/assets/images/footer-bg.jpg);
     background-size: cover;
 }
 footer .home-icon span{
