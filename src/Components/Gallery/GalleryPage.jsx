@@ -7,22 +7,22 @@ import Subscribe from '../Subscribe'
 
 const galleryData = [
     {
-        img: "./src/assets/images/gallery_01.jpg"
+        img: "/assets/images/gallery_01.jpg"
     },
     {
-        img: "./src/assets/images/gallery_02.jpg"
+        img: "/assets/images/gallery_02.jpg"
     },
     {
-        img: "./src/assets/images/gallery_03.jpg"
+        img: "/assets/images/gallery_03.jpg"
     },
     {
-        img: "./src/assets/images/gallery_04.jpg"
+        img: "/assets/images/gallery_04.jpg"
     },
     {
-        img: "./src/assets/images/gallery_05.jpg"
+        img: "/assets/images/gallery_05.jpg"
     },
     {
-        img: "./src/assets/images/gallery_06.jpg"
+        img: "/assets/images/gallery_06.jpg"
     }
 ]
 function GalleryPage() {
