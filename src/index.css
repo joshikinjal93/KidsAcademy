@@ -1,0 +1,113 @@
+/* Common css (style) */
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto' , sans-serif;
+}
+a{
+  text-decoration: none !important;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Bubblegum Sans',cursive;
+}
+h3 {
+  font-size: 40px !important;
+  font-weight: 700 !important;
+}
+h4{
+  font-size: 24px !important;
+  font-weight: 700 !important;
+}
+p{
+  font-size: 16px;
+}
+.text-gray{
+  color: #707479 !important;
+}
+.text-red{
+  color: #e84b3a !important;
+}
+.text-darkred{
+  color: #fa6f57 !important
+}
+.text-yellow{
+  color: #ffc000 !important;
+}
+.text-orange{
+  color: #fc7f0c !important;
+}
+.text-purple{
+  color: #99358f !important;
+}
+.text-lightblue{
+  color: #14b7f1 !important;
+}
+.text-darkblue{
+  color: #0093b2 !important;
+}
+.text-pink{
+  color: #ee257c !important;
+}
+.text-lightgreen{
+  color: #8dc63f !important;
+}
+.text-darkgreen{
+  color: #88c87b !important;
+}
+.text-brown{
+  color: #a40202 !important;
+}
+
+.bg-red{
+  background-color: #e84b3a !important;
+}
+.bg-darkred{
+  background-color: #fa6f57 !important
+}
+.bg-yellow{
+  background-color: #ffc000 !important;
+}
+.bg-orange{
+  background-color: #fc7f0c !important;
+}
+.bg-purple{
+  background-color: #99358f !important;
+}
+.bg-lightblue{
+  background-color: #14b7f1 !important;
+}
+.bg-darkblue{
+  background-color: #0093b2 !important;
+}
+.bg-pink{
+  background-color: #ee257c !important;
+}
+.bg-lightgreen{
+  background-color: #8dc63f !important;
+}
+.bg-darkgreen{
+  background-color: #88c87b !important;
+}
+.bg-brown{
+  background-color: #a40202 !important;
+}
+.bg-blue {
+  background-color: #365899 !important;
+}
+
+.button-default{
+      padding: 15px 30px;
+      margin-right: 20px;
+      color: #fff;
+      font-size: 16px;
+      font-style: italic;
+}
+.join-btn-style{
+    padding: 10px 30px;
+    font-size: 16px;
+    font-style: italic;
+    border-radius: 2px;
+    color: #fff;
+}

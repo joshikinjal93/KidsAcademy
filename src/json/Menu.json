@@ -1,0 +1,169 @@
+[
+    {
+        "lable":"Home",
+        "link":"/",
+        "isDropdown":true,
+        "textColor":"text-red",
+        "dropdownMenu":[
+            {
+                "lable":"Home Style 01",
+                "link":"/home",
+                "textColor":"text-red"
+            },
+            {
+                "lable":"Home Style 02",
+                "link":"/home-style-02",
+                "textColor":"text-red"
+            },
+            {
+                "lable":"Home Style 03",
+                "link":"/home-style-03",
+                "textColor":"text-red"
+            },
+            {
+                "lable":"One Page",
+                "link":"/one-page",
+                "textColor":"text-red"
+            },
+            {
+                "lable":"Boxed Layout",
+                "link":"/boxed-layout",
+                "textColor":"text-red"
+            },
+            {
+                "lable":"RTl Version",
+                "link":"/rtl-version",
+                "textColor":"text-red"
+            }
+        ]
+    },
+    {
+        "lable":"About",
+        "link":"/about",
+        "isDropdown":true,
+        "textColor":"text-yellow",
+        "dropdownMenu":[
+            {
+                "lable":"About Style 01",
+                "link":"/about",
+                "textColor":"text-yellow"
+            },
+            {
+                "lable":"About Style 02",
+                "link":"/about2",
+                "textColor":"text-yellow"
+            }
+        ]
+    },
+    {
+        "lable":"Classes",
+        "link":"/classes",
+        "isDropdown":true,
+        "textColor":"text-orange",
+        "dropdownMenu":[
+            {
+                "lable":"Classes",
+                "link":"/classes",
+                "textColor":"text-orange"
+            },
+            {
+                "lable":"Classes Details",
+                "link":"/classes-details",
+                "textColor":"text-orange"
+            }
+        ]
+    },
+    {
+        "lable":"Teachers",
+        "link":"/teachers",
+        "isDropdown":true,
+        "textColor":"text-purple",
+        "dropdownMenu":[
+            {
+                "lable":"Teachers",
+                "link":"/teachers",
+                "textColor":"text-purple"
+            },
+            {
+                "lable":"Teachers Details",
+                "link":"/teachers-details",
+                "textColor":"text-purple"
+            }
+        ]
+    },
+    {
+        "lable":"Gallery",
+        "link":"/gallery",
+        "isDropdown":true,
+        "textColor":"text-lightblue",
+        "dropdownMenu":[
+            {
+                "lable":"Gallery",
+                "link":"/gallery",
+                "textColor":"text-lightblue"
+            },
+            {
+                "lable":"Gallery Two",
+                "link":"/gallery-two",
+                "textColor":"text-lightblue"
+            },
+            {
+                "lable":"Event",
+                "link":"/event",
+                "textColor":"text-lightblue"
+            },
+            {
+                "lable":"Event Details",
+                "link":"/event-details",
+                "textColor":"text-lightblue"
+            }
+        ]
+    },
+     {
+        "lable":"Blog",
+        "link":"/blog",
+        "isDropdown":true,
+        "textColor":"text-pink",
+        "dropdownMenu":[
+            {
+                "lable":"Blog Page",
+                "link":"blog",
+                "textColor":"text-pink"
+            },
+            {
+                "lable":"Blog Single",
+                "link":"blog-single",
+                "textColor":"text-pink"
+            }
+        ]
+    },
+     {
+        "lable":"Shop",
+        "link":"/shop",
+        "isDropdown":true,
+        "textColor":"text-lightgreen",
+        "dropdownMenu":[
+            {
+                "lable":"Product Page",
+                "link":"/product-page",
+                "textColor":"text-lightgreen"
+            },
+            {
+                "lable":"Product Details",
+                "link":"/product-details",
+                "textColor":"text-lightgreen"
+            },
+            {
+                "lable":"Shop Cart",
+                "link":"/shop-cart",
+                "textColor":"text-lightgreen"
+            }
+        ]
+    },
+     {
+        "lable":"Contact",
+        "link":"/contact",
+        "isDropdown":false,
+        "textColor":"text-brown"
+    }
+]

@@ -1,0 +1,109 @@
+/* Home style start */
+/* Homebanner */
+  #Homebanner {
+    position: relative;
+  }
+  #Homebanner::before {
+      content: '';
+      background: url(../../assets/images/section_triangle_top.png) repeat-x;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 10px;
+      z-index: 99;
+  }
+  #Homebanner::after {
+      content: '';
+      background: url(../../assets/images/section_triangle_bottom.png) repeat-x;
+      position: absolute;
+      bottom: -3px;
+      left: 0;
+      right: 0;
+      height: 10px;
+      z-index: 99;
+  }
+  #Homebanner .carousel img{
+    filter: brightness(70%);
+    height: 600px;
+    width: 100%;
+    transform: scale(1.2);
+  }
+  #Homebanner .carousel .carousel-caption {
+    text-align: start;
+    top: 25%;
+    left: 10%;
+  }
+  #Homebanner .carousel .carousel-caption .banner-content{
+    max-width: 570px;
+  }
+  #Homebanner .carousel .carousel-caption h3{
+      font-weight: 700;
+      font-size: 36px;
+  }
+  #Homebanner .carousel .carousel-caption h2{
+      font-weight: 700;
+      font-size: 60px;
+      margin-bottom: 12px;
+      line-height: 1;
+  }
+  #Homebanner .carousel .carousel-caption p{
+    font-size: 16px;
+  }
+  .carousel-indicators [data-bs-target] {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+    opacity: 1 !important;
+  }
+  .carousel-indicators .active{
+    background-color: #FCB614 !important;
+  }
+/* Homebanner */
+/* Home style end */
+
+/* Responsive start */
+/* max-width:1200px */
+@media (max-width:1200px){
+}
+/* max-width:992px */
+@media (max-width:992px){
+}
+/* max-width:768px */
+@media (max-width:768px){
+
+  #Homebanner .carousel img{
+    transform: scale(1.4);
+  }
+}
+/* max-width:576px */
+@media (max-width:576px){
+  #Homebanner .carousel img{
+    transform: scale(2,1.4);
+  }
+}
+/* max-width:450px */
+@media (max-width:450px){
+  #Homebanner::before {
+    top: -1px;
+  }
+  #Homebanner .carousel .carousel-caption {
+    top: 12%;
+    left: 10%;
+  }
+  
+  #Homebanner .carousel .banner-content h3{
+      font-size: 24px;
+  }
+  #Homebanner .carousel .banner-content h2{
+      font-size: 36px;
+  }
+  #Homebanner .carousel img{
+    height: 500px;
+    transform: scale(2, 1.6);
+  }
+  #Homebanner .carousel .carousel-caption .button-default {
+    padding: 15px 24px;
+  }
+}
+/* Responsive end */
