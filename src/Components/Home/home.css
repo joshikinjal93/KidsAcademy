@@ -102,8 +102,9 @@
     height: 500px;
     transform: scale(2, 1.6);
   }
+
   #Homebanner .carousel .carousel-caption .button-default {
-    padding: 15px 24px;
+    padding: 15px 18px;
   }
 }
 /* Responsive end */

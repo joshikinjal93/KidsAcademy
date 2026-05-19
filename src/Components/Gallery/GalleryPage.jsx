@@ -28,7 +28,7 @@ const galleryData = [
 function GalleryPage() {
   return (
     <>
-        <Banner props={{heading:"About Our KidsAcademy", page:"About us"}}/>
+        <Banner props={{heading:"About Our KidsAcademy", page:"Gallery"}}/>
          <section id="Gallery" className='p-110'>
         <Container>
             <div className="text-center gallery-menu mb-5">
